@@ -1,5 +1,3 @@
-![img](https://xtudodaweb.com/wp-content/uploads/2020/06/Tipos-de-Desenvolvedores.png)
-
 
 <h4>Hi, I'm Thiago.</h4>
 
