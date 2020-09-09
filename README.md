@@ -22,7 +22,8 @@ Lenguagues and  Tools :rocket::
 
 
 
-![thiagonmiziara GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagonmiziara&show_icons=true)
+![thiagonmiziara GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagonmiziara&show_icons=true&theme=gruvbox)
+
 
 
 
