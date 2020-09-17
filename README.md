@@ -1,8 +1,8 @@
 
 <h4>Hi, I'm Thiago :sunglasses:.</h4>
 
-I'm a student :green_book: Front-end Developer Html, Css, Javascript, React do Brasil :brazil:, I'm 33 years old, I love solving problems and making things simpler.
-
+I'm a student :green_book: Front-end Developer Html, Css, Javascript and React, 
+I'm from Brasil :brazil:, I'm 33 years old, I love solving problems and making things simpler.
 
 
 Lenguagues and  Tools :rocket::
