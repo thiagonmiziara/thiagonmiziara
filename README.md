@@ -18,8 +18,8 @@ Lenguagues and  Tools :rocket::
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-![thiagonmiziara GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagonmiziara&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonmiziara&langs_count=8&show_icons=true&theme=gruvbox)](https://github.com/thiagonmiziara/github-readme-stats)
+![thiagonmiziara GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagonmiziara&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonmiziara&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/thiagonmiziara/github-readme-stats)
 
  <h4>contact:</h4>
   <a target="_blank" href="https://www.linkedin.com/in/thiago-nunes-miziara-92a85b6a/">
