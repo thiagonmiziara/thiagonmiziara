@@ -4,7 +4,6 @@
 I'm a student :green_book: Front-end Developer Html, Css, Javascript and React, 
 I'm from Brasil :brazil:, I'm 33 years old, I love solving problems and making things simpler.
 
-<img align="rigth" alt="fronend" width="800px" src="https://blog.mxcursos.com/wp-content/uploads/2017/04/front-end-ou-back-end-entenda-as-diferencas-e-descubra-o-seu-perfil.png"/>
 
 <h5>Lenguagues and  Tools :rocket::</h5>
 
