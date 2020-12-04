@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Thiago :sunglasses:.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="40px" style="max-width:100%;"></h1>
+<h1>Hi, I'm Thiago<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="40px" style="max-width:100%;"></h1>
 
 I'm a student :green_book: Front-end Developer Html, Css, Javascript and React, 
 I'm from Brasil :brazil:, I'm 33 years old, I love solving problems and making things simpler.
