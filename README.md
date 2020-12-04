@@ -3,7 +3,6 @@
 
 I'm a student :green_book: Front-end Developer Html, Css, Javascript and React, 
 I'm from Brasil :brazil:, I'm 33 years old, I love solving problems and making things simpler.
-<img align="left" src="https://camo.githubusercontent.com/684cb1c3cce9429ee23275caf9e9408947f72c3c10e3fa2f291640579da4a4d8/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3430363035392f73637265656e73686f74732f313433303939392f6472696262626c655f6f72616e67652e676966" alt="Oil circle animation" width="55%" height="55%" data-canonical-src="https://cdn.dribbble.com/users/406059/screenshots/1430999/dribbble_orange.gif" style="max-width:100%;">
 
 
 ![thiagonmiziara GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagonmiziara&show_icons=true&theme=tokyonight)
