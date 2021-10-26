@@ -3,6 +3,7 @@
 
 I'm Front-end Developer Html, Css, Javascript and React, 
 I'm from Brasil :brazil:, I'm 34 years old, I love solving problems and making things simpler.
+Currently studying React-Native at Rocketseat.
 
 
 ![thiagonmiziara GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagonmiziara&show_icons=true&theme=tokyonight)
