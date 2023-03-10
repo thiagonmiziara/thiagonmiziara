@@ -2,7 +2,7 @@
 <h1>Hi, I'm Thiago<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="40px" style="max-width:100%;"></h1>
 
 I'm Front-end Developer Html, Css, Javascript and React, 
-I'm from Brasil :brazil:, I'm 34 years old, I love solving problems and making things simpler.
+I'm from Brasil :brazil:, I'm 36 years old, I love solving problems and making things simpler.
 Currently studying React-Native at Rocketseat.
 
 
