@@ -18,7 +18,6 @@
   
 ### Contato
 
-📱 WhatsApp: +55 34 984211909
 
 [![Linkedin](https://img.shields.io/badge/-ThiagoMiziara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-nunes-miziara-92a85b6a/)](https://www.linkedin.com/in/thiago-nunes-miziara-92a85b6a/)
 
