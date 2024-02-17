@@ -24,10 +24,9 @@ I'm from Brasil :brazil:, I'm 36 years old, I love solving problems and making t
 
 
 
- <h4>contact:</h4>
+
      
- <a a target="_blank" href="https://www.linkedin.com/in/thiago-nunes-miziara-92a85b6a/">
- </a>
+
    
 
   
