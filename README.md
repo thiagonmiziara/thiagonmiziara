@@ -15,6 +15,12 @@
 - **Storybook:** Excelente ferramenta para desenvolvimento e teste isolado de componentes.
 - **Zustand:** Utilizo para gerenciamento de estado de forma simples e eficiente.
 - **Jest:** Framework de teste de JavaScript.
+
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,bash,git,html,css,mui,tailwind,js,ts,react,vite,next,jest,nodejs,prisma,python,flask," />
+  </a>
+</p>
   
 ### Contato
 
